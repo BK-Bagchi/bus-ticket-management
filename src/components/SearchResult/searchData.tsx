@@ -30,7 +30,7 @@ const searchData = [
         depTime: '6:15 AM',
         ariveTime: '12:30 PM',
         seats: '46',
-        fair: 120
+        fair: 1200
     },
     {
         id: 4,

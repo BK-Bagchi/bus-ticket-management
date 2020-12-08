@@ -3,8 +3,9 @@ import './Home.css'
 
 const Home = () => {
     const searchBuses = (e: any) => {
-        e.preventDefault()
-        alert('Hi')
+        // e.preventDefault()
+        // alert('Hi')
+        JSON.stringify(localStorage.setItem("Router", "SearchResult"))
     }
     return (
         <section className="home d-flex justify-content-center">

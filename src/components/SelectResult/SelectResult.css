@@ -1,0 +1,11 @@
+
+.bus main{
+    width: 80%;
+}
+.bus p,
+.seat-types p{
+    font-weight: bold;
+    font-size: 40px;
+    margin:5px 10px;
+    cursor: pointer;
+}

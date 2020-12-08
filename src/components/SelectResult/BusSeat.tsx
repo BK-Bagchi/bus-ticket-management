@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Bus = () => {
+const BusSeat = () => {
     return (
         <section className="bus d-flex justify-content-center">
             <main className="row">
@@ -93,4 +93,4 @@ const Bus = () => {
     );
 };
 
-export default Bus;
+export default BusSeat;
