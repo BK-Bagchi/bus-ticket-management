@@ -1,0 +1,9 @@
+.bus main{
+    width: 20%;
+}
+.bus p{
+    font-weight: bold;
+    font-size: 40px;
+    margin:5px 10px;
+    cursor: pointer;
+}
